@@ -21,11 +21,11 @@ Unsupervised ML segmentation excels at identifying clusters of data points that 
 ### Unsupervised Segmentation Techniques
 Several unsupervised ML algorithms are well-suited for segmentation tasks. Among the most popular are:
 
-K-Means Clustering: This algorithm divides data into a predefined number of clusters (k) by iteratively assigning data points to the closest cluster centroid.
+*K-Means Clustering*: This algorithm divides data into a predefined number of clusters (k) by iteratively assigning data points to the closest cluster centroid.
 
-Hierarchical Clustering: This method constructs a hierarchy of clusters by merging or splitting data points based on their similarity, resulting in a tree-like structure that reveals nested segments.
+*Hierarchical Clustering*: This method constructs a hierarchy of clusters by merging or splitting data points based on their similarity, resulting in a tree-like structure that reveals nested segments.
 
-Density-Based Spatial Clustering of Applications with Noise (DBSCAN): This algorithm identifies clusters based on the density of data points, allowing for the detection of clusters of varying shapes and sizes, including those that may be outliers or noise in other methods.
+*Density-Based Spatial Clustering of Applications with Noise (DBSCAN)*: This algorithm identifies clusters based on the density of data points, allowing for the detection of clusters of varying shapes and sizes, including those that may be outliers or noise in other methods.
 
 Each algorithm has its strengths and limitations, and the choice of method depends on the specific characteristics of the data and the desired outcome.
 
