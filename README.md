@@ -1,8 +1,7 @@
-# portfolio
+# Portfolio
 
 ### Machine Learning in Business
 
-### Work Experience
-- "Segmentation Using Unsupervised Machine Learing"
-- "Using ML to Enable Expertise Networks on the QuickBooks Footprint"
-- +Leveraging Sales Associates at Clinique in Macy's With ML" 
+- "Market Segmentation Using Unsupervised Machine Learning (ML)"
+- "Using ML in Expertise Networks on the QuickBooks Footprint"
+- +Capitalizing on Clinique Sales Associates at Macy's With ML" 
