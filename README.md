@@ -16,7 +16,7 @@ In today's data-driven world, organizations turn to machine learning (ML) to gai
 
 
 ### Why Unsupervised Segmentation?
-Unsupervised ML segmentation identifies clusters of data points that share similar characteristics, without any prior knowledge of what those groupings are. This is particularly valuable for exploratory data analysis. The point l is to discover underlying patterns and relationships that might otherwise remain hidden. By grouping data into meaningful segments, organizations can gain a deeper understanding of their customer base, market dynamics, and operational patterns, leading to more targeted marketing campaigns, improved customer service, and enhanced operational efficiency.
+Unsupervised ML segmentation identifies clusters of data points that share similar characteristics, without any prior knowledge of what those groupings are. This is particularly valuable for exploratory data analysis. The point is to discover underlying patterns and relationships that might otherwise remain hidden. By grouping data into meaningful segments, organizations can gain a deeper understanding of their customer base, market dynamics, and operational patterns, leading to more targeted marketing campaigns, improved customer service, and enhanced operational efficiency.
 
 ### Unsupervised Segmentation Techniques
 Several unsupervised ML techniques are well-suited for segmentation. Among the most popular are:
