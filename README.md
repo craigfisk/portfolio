@@ -2,13 +2,13 @@
 
 ### Machine Learning in Business
 
-TOC:
 
-- "Market Segmentation Using Unsupervised Machine Learning (ML)"
-- "Using ML to Connect *QuickBooks* Experts"
-- "Capitalizing on Clinique Sales Associates at Macy's With ML" 
+[Market Segmentation Using Unsupervised Machine Learning](https://craigfisk.github.io/portfolio#Market Segmentation Using Unsupervised Machine Learning)
+[Using ML to Connect *QuickBooks* Experts](https://craigfisk.github.io/portfolio#Using ML to Connect *QuickBooks* Experts)
+[Capitalizing on Clinique Sales Associates at Macy's With ML](https://craigfisk.github.io/portfolio#Capitalizing on Clinique Sales Associates at Macy's With ML)
+[Appendix](https://craigfisk.github.io/portfolio#Appendix)
 
-## "Market Segmentation Using Unsupervised Machine Learning (ML)"
+## Market Segmentation Using Unsupervised Machine Learning
 
 ![children at play](assets/img/pexels-photo-8613146_cropped.jpeg)
 
@@ -134,3 +134,9 @@ As technology continues to advance, the potential for transforming skincare incr
 
 
 In conclusion, unsupervised machine learning presents a transformational opportunity for Clinique to leverage its sales associates to elevate the customer experience and establish a new standard for personalized skincare interactions. By unlocking customer insights, revolutionizing the skincare consultation process, and enhancing customer engagement, Clinique sales associates are empowered to forge deeper connections with customers and foster a more personalized skincare journey. The future of skincare sales holds immense promise for continued innovation and customer satisfaction.
+
+## Appendix
+
+*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems*, 3rd Edition, Aurélien Géron. O'Reilly.
+
+*Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD*, Jeremy Howard and Sylvain Gugger. O'Reilly. 
