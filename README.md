@@ -11,8 +11,7 @@
 
 ![children at play](assets/img/pexels-photo-8613146_cropped.jpeg)
 
-In today's data-driven world, organizations turn to machine learning (ML) to gain insights from their data. While supervised ML has proven effective in prediction, unsupervised machine learning (ML) offers an advantage in situations where there are no labels or predetermined outcomes. This is the case with marketing segmentation. Here, unsupervised ML empowers businesses to uncover hidden patterns and segments within their data, enabling more informed strategic decision-making.
-
+In a data-driven world, companies use machine learning (ML) to gain insights from their data. Supervised ML is effective in prediction when there is labeled data, but unsupervised machine learning (ML) is the appropriate method to use when there are no labels or predetermined text categories. This is generally the case with  marketing segmentation. Unsupervised ML enables companies to find hidden patterns and market segments that were less than obvious within the data, and this leads to informed strategic decisions.
 
 ### Why Unsupervised Segmentation?
 Unsupervised ML segmentation identifies clusters of data points that share similar characteristics, without any prior knowledge of what those groupings are. This is particularly valuable for exploratory data analysis. The point is to discover underlying patterns and relationships that might otherwise remain hidden. By grouping data into meaningful segments, organizations can gain a deeper understanding of their customer base, market dynamics, and operational patterns, leading to more targeted marketing campaigns, improved customer service, and enhanced operational efficiency.
