@@ -8,7 +8,7 @@
 [Capitalizing on Clinique Sales Associates at Macy's With ML](https://craigfisk.github.io/portfolio#Capitalizing on Clinique Sales Associates at Macy's With ML)
 [Appendix](https://craigfisk.github.io/portfolio#Appendix)
 
-## Market Segmentation Using Unsupervised Machine Learning
+## #Market Segmentation Using Unsupervised Machine Learning
 
 ![children at play](assets/img/pexels-photo-8613146_cropped.jpeg)
 
@@ -44,7 +44,7 @@ As the volume and complexity of data continue to grow, unsupervised ML segmentat
 
 
 
-## "Using ML to Connect *QuickBooks* Experts"
+## #Using ML to Connect *QuickBooks* Experts
 
 ![deliberating finances on QuickBooks](assets/img/pexels-yan-krukau-6817650.jpg)
 
@@ -88,7 +88,7 @@ Application of ML to create virtual expertise networks for Intuit *QuickBooks* h
 
 
 
-## "Capitalizing on Clinique Sales Associates at Macy's With ML"
+## #Capitalizing on Clinique Sales Associates at Macy's With ML
 
 ![Trying out skincare](assets/img/pexels-karolina-grabowska-7281709.jpg)
 
@@ -135,7 +135,7 @@ As technology continues to advance, the potential for transforming skincare incr
 
 In conclusion, unsupervised machine learning presents a transformational opportunity for Clinique to leverage its sales associates to elevate the customer experience and establish a new standard for personalized skincare interactions. By unlocking customer insights, revolutionizing the skincare consultation process, and enhancing customer engagement, Clinique sales associates are empowered to forge deeper connections with customers and foster a more personalized skincare journey. The future of skincare sales holds immense promise for continued innovation and customer satisfaction.
 
-## Appendix
+## #Appendix
 
 *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems*, 3rd Edition, Aurélien Géron. O'Reilly.
 
