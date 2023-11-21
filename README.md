@@ -2,10 +2,10 @@
 
 ### Machine Learning in Business
 
-- [Market Segmentation Using Unsupervised Machine Learning](https://github.com/craigfisk/portfolio/#Market-Segmentation-Using-Unsupervised-Machine-Learning)<br />
-- [Using ML to Connect *QuickBooks* Experts](https://github.com/craigfisk/portfolio/#Using-ML-to-Connect-*QuickBooks*-Experts)<br />
-- [Capitalizing on Clinique Sales Associates at Macy's With ML](https://github.com/craigfisk/portfolio/#Capitalizing-on-Clinique-Sales-Associates-at-Macy's-With-ML)<br />
-- [Appendix](https://github.com/craigfisk/portfolio/#Appendix)<br />
+- [Market Segmentation Using Unsupervised Machine Learning](https://github.com/craigfisk/portfolio/README.md/##Market-Segmentation-Using-Unsupervised-Machine-Learning)<br />
+- [Using ML to Connect *QuickBooks* Experts](https://github.com/craigfisk/portfolio/README.md/##Using-ML-to-Connect-*QuickBooks*-Experts)<br />
+- [Capitalizing on Clinique Sales Associates at Macy's With ML](https://github.com/craigfisk/portfolio/README.md/##Capitalizing-on-Clinique-Sales-Associates-at-Macy's-With-ML)<br />
+- [Appendix](https://github.com/craigfisk/portfolio/README.md/##Appendix)<br />
 
 ## Market Segmentation Using Unsupervised Machine Learning
 
