@@ -12,7 +12,7 @@ Note: The following essays were generated on bard.google.com using detailed prom
 
 ## Market Segmentation Using Unsupervised Machine Learning
 
-![children at play](assets/img/pexels-photo-8613146_cropped.jpeg)
+<img src="https://craigfisk.com/img/pexels-photo-8613146_cropped_1080.png" style="width=100%; height=auto;" >
 
 In a data-driven world, companies use machine learning (ML) to gain insights from their data. Supervised ML is effective in prediction when there is labeled data, but unsupervised machine learning (ML) is the appropriate method to use when there are no labels or predetermined text categories. This is generally the case with  marketing segmentation. Unsupervised ML enables companies to find hidden patterns and market segments that were less than obvious within the data, and this leads to informed strategic decisions.
 
@@ -47,9 +47,9 @@ As the volume and complexity of data continue to grow, unsupervised ML segmentat
 
 ## Using ML to Connect *QuickBooks* Experts
 
-![deliberating finances on QuickBooks](assets/img/pexels-yan-krukau-6817650.jpg)
+<img src="https/craigfisk.com/img/pexels-yan-krukau-6817650_1080.png" style="width=50%; height=auto; float=right;" >
 
-Intuit *QuickBooks* has established itself as a market-leading financial management solution for small and medium-sized businesses (SMBs). As the *QuickBooks* portfolio expands, so does the demand for experts. To effectively address this growing need, Intuit can innovate by enabling users to share knowledge and expertise. Intuit can differentiate itself from competition with virtual expertise networks powered by machine learning (ML).
+Intuit *QuickBooks* has established itself as a market-leading financial management solution for small and medium-sized businesses (SMBs). As the *QuickBooks* portfolio expands, so does the demand for experts. To address this opportunity, Intuit can innovate by enabling users to share expertise. Intuit can differentiate itself from competition with virtual expertise networks powered by machine learning (ML).
 
 QuickBooks Expert Networks (QENs) connect *QuickBooks* users with relevant experts. They  provide a collaborative environment for knowledge exchange and problem-solving. 
 
@@ -91,7 +91,7 @@ Application of ML to create virtual expertise networks for Intuit *QuickBooks* h
 
 ## Capitalizing on Clinique Sales Associates at Macy's With ML
 
-![Trying out skincare](assets/img/pexels-karolina-grabowska-7281709.jpg)
+<img src="https/craigfisk.com/img/pexels-karolina-grabowska-7281709_1080.png" style="width=50%; height=auto; float=right;" >
 
 Clinique is a renowned brand in skincare with innovative products and commitment to personalized customer interactions. As the beauty industry evolves, the opportunity for *high touch* by empowering sales associates as a unique differentiator is paramount. 
 
