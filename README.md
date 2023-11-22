@@ -47,7 +47,7 @@ As the volume and complexity of data continue to grow, unsupervised ML segmentat
 
 ## Using ML to Connect *QuickBooks* Experts
 
-<img src="https/craigfisk.com/img/pexels-yan-krukau-6817650_1080.png" style="width=50%; height=auto; float=right;" >
+<img src="https://craigfisk.com/img/pexels-yan-krukau-6817650_1080.png" style="width=50%; height=auto; float=right;" >
 
 Intuit *QuickBooks* has established itself as a market-leading financial management solution for small and medium-sized businesses (SMBs). As the *QuickBooks* portfolio expands, so does the demand for experts. To address this opportunity, Intuit can innovate by enabling users to share expertise. Intuit can differentiate itself from competition with virtual expertise networks powered by machine learning (ML).
 
@@ -88,10 +88,9 @@ To successfully implement ML-powered QENs, Intuit should:
 Application of ML to create virtual expertise networks for Intuit *QuickBooks* holds huge potential to revolutionize the brand positioning. By harnessing ML, Intuit can empower users, optimize expertise impact, and foster a community of shared knowledge, ultimately enhancing the overall *QuickBooks* experience.
 
 
-
 ## Capitalizing on Clinique Sales Associates at Macy's With ML
 
-<img src="https/craigfisk.com/img/pexels-karolina-grabowska-7281709_1080.png" style="width=50%; height=auto; float=right;" >
+<img src="https://craigfisk.com/img/pexels-karolina-grabowska-7281709_1080.png" style="width=50%; height=auto; float=right;" >
 
 Clinique is a renowned brand in skincare with innovative products and commitment to personalized customer interactions. As the beauty industry evolves, the opportunity for *high touch* by empowering sales associates as a unique differentiator is paramount. 
 
