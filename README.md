@@ -7,6 +7,9 @@
 - [Capitalizing on Clinique Sales Associates at Macys With ML](https://github.com/craigfisk/portfolio#Capitalizing-on-Clinique-Sales-Associates-at-Macys-With-ML)<br />
 - [Appendix](https://github.com/craigfisk/portfolio#Appendix)<br />
 
+Note: The following essays were generated on bard.google.com using detailed prompts I supplied, re-written to cut wordiness and convert Latinate nouns and adjectives to verb constructions where possible, expediting writing on topics I am familiar with through past work. 
+
+
 ## Market Segmentation Using Unsupervised Machine Learning
 
 ![children at play](assets/img/pexels-photo-8613146_cropped.jpeg)
@@ -138,3 +141,7 @@ In conclusion, unsupervised machine learning presents a transformational opportu
 *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems*, 3rd Edition, Aurélien Géron. O'Reilly.
 
 *Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD*, Jeremy Howard and Sylvain Gugger. O'Reilly. 
+
+*Architecting Data and Machine Learning Platforms*, Marco Tranquillin et al., O'Reilly.
+
+*Machine Learning Design Patterns*, Valliappa Lakshmanan, O'Reilly.
