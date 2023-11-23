@@ -12,7 +12,7 @@ Note: The following essays were generated on bard.google.com using detailed prom
 
 ## Market Segmentation Using Unsupervised Machine Learning
 
-<img src="https://craigfisk.com/img/pexels-photo-8613146_cropped_1080.png" style="width: 50%; height: 50%; float: right;" >
+<img src="https://craigfisk.com/img/pexels-photo-8613146_cropped_1080.png" style="width: 100%; height: float: right;" >
 
 In a data-driven world, companies use machine learning (ML) to gain insights from their data. Supervised ML is effective in prediction when there is labeled data, but unsupervised machine learning (ML) is the appropriate method to use when there are no labels or predetermined text categories. This is generally the case with  marketing segmentation. Unsupervised ML enables companies to find hidden patterns and market segments that were less than obvious within the data, and this leads to informed strategic decisions.
 
