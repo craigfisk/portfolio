@@ -9,10 +9,10 @@
 
 Contact info: 
     
--    https://craigfisk.com/craigfisk_senior_advisor_2023-11-11.pdf
--    https://craigfisk.com/craigfisk_software_2023-11-11.pdf
--    https://about.me/craigfisk
--    https://linkedin.com/in/craigfisk
+-    <a href='https://craigfisk.com/craigfisk_senior_advisor_2023-11-11.pdf'>Senior advisor resume</a>
+-    <a href='https://craigfisk.com/craigfisk_software_2023-11-11.pdf'>Software resume</a>
+-    <a href='https://about.me/craigfisk'>About.me/craigfisk</a>
+-    <a href='https://linkedin.com/in/craigfisk'>Linkedin.com/in/craigfisk</a>
 
 Note: The following essays were generated on bard.google.com using detailed prompts I supplied, re-written to cut wordiness and convert Latinate nouns and adjectives to verb constructions where possible, so  expediting writing on topics I am familiar with through past work. 
 
