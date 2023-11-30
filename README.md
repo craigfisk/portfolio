@@ -7,6 +7,13 @@
 - [Capitalizing on Clinique Sales Associates at Macys With ML](https://github.com/craigfisk/portfolio#Capitalizing-on-Clinique-Sales-Associates-at-Macys-With-ML)<br />
 - [Appendix](https://github.com/craigfisk/portfolio#Appendix)<br />
 
+Contact info: 
+    
+-    https://craigfisk.com/craigfisk_senior_advisor_2023-11-11.pdf
+-    https://craigfisk.com/craigfisk_software_2023-11-11.pdf
+-    https://about.me/craigfisk
+-    https://linkedin.com/in/craigfisk
+
 Note: The following essays were generated on bard.google.com using detailed prompts I supplied, re-written to cut wordiness and convert Latinate nouns and adjectives to verb constructions where possible, so  expediting writing on topics I am familiar with through past work. 
 
 
@@ -14,7 +21,7 @@ Note: The following essays were generated on bard.google.com using detailed prom
 
 <img src="https://craigfisk.com/img/pexels-photo-8613146_cropped_1080.png" style="width: 100%; height: float: right;" >
 
-New business building is the #1 initiative today, according to a McKinsey & Company "Global Survey" in November 9, 2023. In a data-driven world, companies can use machine learning (ML) to gain the market segmentation insights from their data necessary to build new businesses. 
+To build a new business is the #1 initiative today, according to a McKinsey & Company "Global Survey" in November 9, 2023. In a data-driven world, companies can use machine learning (ML) to gain the market segmentation insights from their data necessary to build new businesses. 
 
 Unsupervised ML is the right method to use when there are no labels or predetermined text categories. In contrast, supervised ML is effective in prediction when there is labeled data. Generally, labeled data is lacking in marketing segmentation. Unsupervised ML enables companies to find hidden patterns and market segments that were less than obvious within the data, and this leads to informed strategic decisions.
 
@@ -141,10 +148,9 @@ In conclusion, unsupervised machine learning presents a transformational opportu
 
 ## Appendix
 
-*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems*, 3rd Edition, Aurélien Géron. O'Reilly.
+*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems*, 3rd Edition, Aurélien Géron. 2022, O'Reilly.
 
-*Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD*, Jeremy Howard and Sylvain Gugger. O'Reilly. 
+*Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD*, Jeremy Howard and Sylvain Gugger. 2020, 'Reilly. 
 
-*Architecting Data and Machine Learning Platforms*, Marco Tranquillin et al., O'Reilly.
+*Architecting Data and Machine Learning Platforms*, Marco Tranquillin, Valliappa Lakshmanan, Firat Tekiner. 2023, O'Reilly.
 
-*Machine Learning Design Patterns*, Valliappa Lakshmanan, O'Reilly.
