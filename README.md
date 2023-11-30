@@ -9,8 +9,8 @@
 
 Contact info: 
     
--    <a href='https://craigfisk.com/craigfisk_senior_advisor_2023-11-11.pdf'>Senior advisor resume</a>
--    <a href='https://craigfisk.com/craigfisk_software_2023-11-11.pdf'>Software resume</a>
+-    <a href='https://craigfisk.com/craigfisk_resume_senior_advisor_2023-11-11.pdf'>Senior advisor resume</a>
+-    <a href='https://craigfisk.com/craigfisk_resume_software_2023-11-11.pdf'>Software resume</a>
 -    <a href='https://about.me/craigfisk'>About.me/craigfisk</a>
 -    <a href='https://linkedin.com/in/craigfisk'>Linkedin.com/in/craigfisk</a>
 
