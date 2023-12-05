@@ -112,7 +112,7 @@ I previously was CEO of a Series A startup which, after a pivot, targeted mobile
 
 Each mobile segment was unique. In cosmetics companies, "sales associates" typically got into this type of work because they knew a lot about the category, like being close to the product and customers, and last about a year in the job. The best sales associates had a little black book of their top customers. When they left, it left with them.
 
-So really there are two phases to "capitalizing on Clinique sales associates at Macy's with ML." Digitizing what was on paper, and then applying ML to it for personalize customer interaction.
+So really there are two phases to "capitalizing on Clinique sales associates at Macy's with ML." Digitizing what was on paper, and then applying ML to it to  personalize customer interaction.
 
 Clinique is a renowned brand in skincare with innovative products and commitment to personalized customer interactions. As the beauty industry evolves, the opportunity for *high touch* by empowering sales associates as a unique differentiator is paramount. 
 
