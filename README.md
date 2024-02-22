@@ -13,7 +13,7 @@ Contact info:
 -    <a href='https://about.me/craigfisk'>About.me/craigfisk</a>
 -    <a href='https://linkedin.com/in/craigfisk'>Linkedin.com/in/craigfisk</a>
 
-Note: These essays were AI-generated on bard.google.com using prompts I supplied, and then re-written to cut wordiness. Current work: In early 2024, I just finished a Google Developer Group - San Jose 5-week online session on LLM programming (Gemini, chatGPT, Hugging Face, Docker, Gitpod), converting a Marmalade AI prototype on Digital Ocean to Vue 3, and adding webRTC support.
+Note: These essays were AI-generated on bard.google.com using prompts I supplied, and then re-written to cut wordiness. Current work: In early 2024, I just finished a Google Developer Group - San Jose 5-week online session on LLM programming (Gemini, chatGPT, Hugging Face, Docker, Gitpod), and am converting a Marmalade AI prototype on Digital Ocean to Vue 3 and adding webRTC support.
 
 
 ## Market Segmentation Using Unsupervised Machine Learning
