@@ -9,38 +9,38 @@
 
 Contact info: 
     
--    <a href='https://craigfisk.com/craigfisk_resume_senior_advisor_2023-11-11.pdf'>Senior advisor resume</a>
+-    <a href='https://craigfisk.com/craigfisk_resume_2024-2-2.pdf'>Part-time marketing consultant resume</a>
 -    <a href='https://about.me/craigfisk'>About.me/craigfisk</a>
 -    <a href='https://linkedin.com/in/craigfisk'>Linkedin.com/in/craigfisk</a>
 
-Note: The following essays were generated on bard.google.com using prompts I supplied, re-written to cut wordiness and convert Latinate nouns and adjectives to verb constructions where possible, thus expediting writing on topics I am familiar with through past work. 
+Note: The following essays were generated on bard.google.com ( > Gemini > Gemma) using prompts I supplied, re-written to cut wordiness, on topics I am familiar with through past work. In early 2024, I just finished a Google Developer Group - San Jose 5-week online session on LLM programming (Gemini, chatGPT, Hugging Face, Docker, Gitpod), we are converting a Marmalade AI prototype to Vue 3, and probably adding webRTC will be next.
 
 
 ## Market Segmentation Using Unsupervised Machine Learning
 
 <img src="https://craigfisk.com/img/pexels-photo-8613146_cropped_1080.png" style="width: 100%; height: float: right;" >
 
-There are a lot of publications now on using machine learning in segmentation. This post is a personalized summary of some of the thinking on this topic. To build a new business is the #1 initiative today, according to a McKinsey & Company "Global Survey" in November 9, 2023. 
+There are a lot of publications now on using machine learning in segmentation. This post is a personalized summary of some of my thinking on this topic. To build a new business is the #1 initiative today, according to a McKinsey & Company "Global Survey" in November 9, 2023. 
 
-Back in 2017 I arrived early for a presentation on AI. I spotted someone I knew had been active in AI for a long time, so I asked what was new. He said matrix algebra and regression were still relevant. The difference today was that there was 10,000 times more data and 10,000 times more compute power. 
+Context: back in 2017 I arrived early for a talk on AI and spotted someone I knew had been active in AI for a long time, so I asked what was new. He said matrix algebra and regression were still relevant. The difference today was that there was 10,000 times more data and 10,000 times more compute power. 
 
-Unsupervised ML, however, does bring something new to the party. It is the method to use when there are no labels or predetermined categories. Supervised ML uses labeled data. Generally, labeled data is lacking in marketing segmentation, or at least it would be good to leave existing ideas behind.
+Unsupervised ML does bring something new to the table, however. It is the method to use when there are no labels or predetermined categories. Supervised ML uses labeled data. Labeled data generally is lacking in marketing segmentation (or at least it would be good to leave existing ideas behind).
 
-Unsupervised ML enables finding segments that were less than obvious in the data, and this can lead to innovation.
+Unsupervised ML enables finding segments that were less than obvious in the data. This can lead to innovation.
 
 ### How Does Unsupervised Segmentation Work?
-Unsupervised ML segmentation identifies clusters of data points that share similar characteristics, without prior knowledge of what the groupings are. This can be particularly valuable for exploratory data analysis, where the point is to discover underlying patterns and relationships that might otherwise remain hidden. 
+Unsupervised ML segmentation identifies clusters of data points that share similar characteristics, without prior knowledge of what the groupings are. This is especially  useful for exploratory data analysis. The goal there is to discover underlying patterns and relationships that might otherwise remain hidden. 
 
-By grouping data into meaningful segments, companies can gain a deeper understanding of their customer base, market dynamics, and operating patterns, leading to more targeted marketing campaigns, improved customer service, and enhanced operational efficiency.
+By grouping data into meaningful segments, companies can gain a deeper understanding of the customer base, market dynamics, and operating patterns, leading to more targeted marketing campaigns, improved customer service, and enhanced operational efficiency.
 
 ### Unsupervised Segmentation Techniques
-Several unsupervised ML techniques are well-suited for segmentation. Among the most popular are:
+Among the most popular unsupervised machie learning techniques:
 
-*K-Means Clustering*: This divides data into a predefined number of clusters (k), iteratively assigning data points to the closest cluster centroid.
+*K-Means Clustering*: Divides data into a predefined number of clusters (k), iteratively assigning data points to the closest cluster centroid.
 
-*Hierarchical Clustering*: This method constructs a hierarchy of clusters by merging or splitting data points based on their similarity, resulting in a tree-like structure that reveals nested segments.
+*Hierarchical Clustering*: Constructs a hierarchy of clusters by merging or splitting data points based on their similarity, resulting in a tree-like structure that reveals nested segments.
 
-*Density-Based Spatial Clustering of Applications with Noise*: This technique  identifies clusters based on the density of data points, allowing for the detection of clusters of varying shapes and sizes, including those that may be outliers or noise in other methods.
+*Density-Based Spatial Clustering of Applications with Noise*: Identifies clusters based on the density of data points, allowing for the detection of clusters of varying shapes and sizes, including those that may be outliers or noise in other methods.
 
 Each algorithm has its strengths and limitations. The choice of method depends on the characteristics of the data and the desired outcome.
 
@@ -52,7 +52,7 @@ Unsupervised ML segmentation has a wide range of applications, including:
 *Market Segmentation*: Uncovering market segments based on product preferences, demographics, and behavioral patterns, allowing for tailored product development and marketing strategies.
 
 ### Real-World Success Stories
-Numerous companies have employed unsupervised ML segmentation to gain a competitive edge. For instance, a leading *e-commerce* company used unsupervised ML to identify customer segments based on purchase history and website behavior, resulting in an increase in conversion through personalized product recommendations.
+Many companies have employed unsupervised ML segmentation to gain a competitive edge. For instance, a leading *e-commerce* company used unsupervised ML to identify customer segments based on purchase history and website behavior, resulting in an increase in conversion through product recommendations that targeted those segments.
 
 ### Embracing Unsupervised Segmentation for Strategic Advantage
 As the volume and complexity of data continue to grow, unsupervised ML segmentation will play an increasing role in organizational decision-making. By leveraging the power of unsupervised ML to uncover hidden patterns and segments within data, organizations can gain a deeper understanding of their customers, markets, and operations, enabling them to make more informed strategic decisions and achieve a competitive advantage.
@@ -63,7 +63,7 @@ As the volume and complexity of data continue to grow, unsupervised ML segmentat
 
 <img src="https://craigfisk.com/img/pexels-yan-krukau-6817650_1080.png" style="width: 50%; height: auto; float: right;" >
 
-For me personally, this story is about leveraging expertise networking, related to what we are doing with my startup, Marmalade AI, on the rather large footprint of an existing product, *QuickBooks". There are many potential similar cases that differentiate an established product by enabling its users to connect.
+For me personally, this story is about leveraging expertise networking, similar to what we are doing with my startup, Marmalade AI, but applied to the large footprint of an existing product, *QuickBooks". There are, however, many similar cases that differentiate an established product by enabling its users to connect.
 
 Intuit *QuickBooks* has established itself as a market-leading financial management solution for small and medium-sized businesses (SMBs). As the *QuickBooks* portfolio expands, so does the demand for experts. To address this opportunity, Intuit can innovate by enabling users to share expertise. Intuit can differentiate itself from competition with virtual expertise networks powered by machine learning (ML).
 
