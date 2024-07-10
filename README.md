@@ -20,7 +20,7 @@ Note: These essays were AI-generated on bard.google.com using prompts I supplied
 
 <img src="https://craigfisk.com/img/pexels-photo-8613146_cropped_1080.png" style="width: 100%; height: float: right;" >
 
-There are a lot of publications now on using machine learning in segmentation. This post is a personalized summary of some of my thinking on this topic. To build a new business is the #1 initiative today, according to a McKinsey & Company "Global Survey" in November 9, 2023. 
+There are many publications on using machine learning in segmentation. This post is a personalized summary of some of my thinking on this topic. To build a new business is the #1 initiative today, according to a McKinsey & Company "Global Survey" in November 9, 2023. 
 
 Context: back in 2017 I arrived early for a talk on AI and spotted someone I knew had been active in AI for a long time, so I asked what was new. He said matrix algebra and regression were still relevant. The difference today was that there was 10,000 times more data and 10,000 times more compute power. 
 
