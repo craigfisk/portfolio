@@ -13,16 +13,16 @@ Contact info:
 -    <a href='https://about.me/craigfisk'>About.me/craigfisk</a>
 -    <a href='https://linkedin.com/in/craigfisk'>Linkedin.com/in/craigfisk</a>
 
-Note: These essays were AI-generated on bard.google.com using prompts I supplied, and then re-written to cut wordiness. Current work: In early 2024, I just finished a Google Developer Group - San Jose 5-week online session on LLM programming (Gemini, chatGPT, Hugging Face, Docker, Gitpod), and am converting a Marmalade AI prototype on Digital Ocean to Vue 3 and adding webRTC support.
+Note: These essays were AI-generated on gemini.google.com using prompts I supplied, and then re-written to cut wordiness. Current work: When I wrote the first one, in early 2024, I had just finished a Google Developer Group - San Jose 5-week online session on LLM programming (Gemini, chatGPT, Hugging Face, Docker, Gitpod). Currently, in late 2025, we have put https://marmalade.ai on pause -- not least because it needs to have a social strategy. Also, the prototype needs to be  converted from Vue 2 to Vue 3, and subscription support using cloud functions needs to be added.
 
 
 ## Market Segmentation Using Unsupervised Machine Learning
 
 <img src="https://craigfisk.com/img/pexels-photo-8613146_cropped_1080.png" style="width: 100%; height: float: right;" >
 
-There are many publications on using machine learning in segmentation. This post is a personalized summary of some of my thinking on this topic. To build a new business is the #1 initiative today, according to a McKinsey & Company "Global Survey" in November 9, 2023. 
+There are many publications on using machine learning in segmentation. This post is a personalized summary of some of my thinking on this topic. To build a new business is the #1 initiative today, according to a McKinsey & Company "Global Survey." 
 
-Context: back in 2017 I arrived early for a talk on AI and spotted someone I knew had been active in AI for a long time, so I asked what was new. He said matrix algebra and regression were still relevant. The difference today was that there was 10,000 times more data and 10,000 times more compute power. 
+Context: back in 2017 I arrived early for a talk on AI and spotted a software engineer I knew had been active in AI for a long time, so I asked what was new. He said, well, matrix algebra and regression are still relevant, but that there are 10,000 times more data and 10,000 times more compute power. 
 
 Unsupervised ML does bring something new to the table, however. It is the method to use when there are no labels or predetermined categories. Supervised ML uses labeled data. Labeled data generally is lacking in marketing segmentation (or at least it would be good to leave existing ideas behind).
 
