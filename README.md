@@ -34,7 +34,7 @@ Unsupervised ML segmentation identifies clusters of data points that share simil
 By grouping data into meaningful segments, companies can gain a deeper understanding of the customer base, market dynamics, and operating patterns, leading to more targeted marketing campaigns, improved customer service, and enhanced operational efficiency.
 
 ### Unsupervised Segmentation Techniques
-Among the most popular unsupervised machie learning techniques:
+Among the most popular unsupervised machine learning techniques:
 
 *K-Means Clustering*: Divides data into a predefined number of clusters (k), iteratively assigning data points to the closest cluster centroid.
 
