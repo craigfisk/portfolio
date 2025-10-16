@@ -2,10 +2,10 @@
 
 ### Machine Learning in Business
 
-- [Market Segmentation Using Unsupervised Machine Learning](https://github.com/craigfisk/portfolio#Market-Segmentation-Using-Unsupervised-Machine-Learning)<br />
-- [Using ML to Connect QuickBooks Experts](https://github.com/craigfisk/portfolio#Using-ML-to-Connect-QuickBooks-Experts)<br />
-- [Capitalizing on Clinique Sales Associates at Macys With ML](https://github.com/craigfisk/portfolio#Capitalizing-on-Clinique-Sales-Associates-at-Macys-With-ML)<br />
-- [Appendix](https://github.com/craigfisk/portfolio#Appendix)<br />
+- [1) Market Segmentation Using Unsupervised Machine Learning](https://github.com/craigfisk/portfolio#Market-Segmentation-Using-Unsupervised-Machine-Learning)<br />
+- [2) Using ML to Connect QuickBooks Experts](https://github.com/craigfisk/portfolio#Using-ML-to-Connect-QuickBooks-Experts)<br />
+- [3) Capitalizing on Clinique Sales Associates at Macys With ML](https://github.com/craigfisk/portfolio#Capitalizing-on-Clinique-Sales-Associates-at-Macys-With-ML)<br />
+- [4) Appendix](https://github.com/craigfisk/portfolio#Appendix)<br />
 
 Contact info: 
     
@@ -16,7 +16,7 @@ Contact info:
 Note: These essays were AI-generated on gemini.google.com using prompts I supplied, and then re-written to cut wordiness. Current work: When I wrote the first one, in early 2024, I had just finished a Google Developer Group - San Jose 5-week online session on LLM programming (Gemini, chatGPT, Hugging Face, Docker, Gitpod). Currently, in late 2025, we have put https://marmalade.ai on pause -- not least because it needs to have a social strategy. Also, the prototype needs to be  converted from Vue 2 to Vue 3, and subscription support using cloud functions needs to be added.
 
 
-## Market Segmentation Using Unsupervised Machine Learning
+## 1) Market Segmentation Using Unsupervised Machine Learning
 
 <img src="https://craigfisk.com/img/pexels-photo-8613146_cropped_1080.png" style="width: 100%; height: float: right;" >
 
@@ -59,7 +59,7 @@ As the volume and complexity of data continue to grow, unsupervised ML segmentat
 
 
 
-## Using ML to Connect *QuickBooks* Experts
+## 2) Using ML to Connect *QuickBooks* Experts
 
 <img src="https://craigfisk.com/img/pexels-yan-krukau-6817650_1080.png" style="width: 50%; height: auto; float: right;" >
 
@@ -104,7 +104,7 @@ To successfully implement ML-powered QENs, Intuit should:
 Application of ML to create virtual expertise networks for Intuit *QuickBooks* holds huge potential to revolutionize the brand positioning. By harnessing ML, Intuit can empower users, optimize expertise impact, and foster a community of shared knowledge, ultimately enhancing the overall *QuickBooks* experience.
 
 
-## Capitalizing on Clinique Sales Associates at Macy's With ML
+## 3) Capitalizing on Clinique Sales Associates at Macy's With ML
 
 <img src="https://craigfisk.com/img/pexels-karolina-grabowska-7281709_1080.png" style="width: 50%; float: right;" >
 
@@ -157,11 +157,11 @@ As technology continues to advance, the potential for transforming skincare incr
 
 In conclusion, unsupervised machine learning presents a transformational opportunity for Clinique to leverage its sales associates to elevate the customer experience and establish a new standard for personalized skincare interactions. By unlocking customer insights, revolutionizing the skincare consultation process, and enhancing customer engagement, Clinique sales associates are empowered to forge deeper connections with customers and foster a more personalized skincare journey. The future of skincare sales holds immense promise for continued innovation and customer satisfaction.
 
-## Appendix
+## 4) Appendix
 
 *Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems*, 3rd Edition, Aurélien Géron. 2022, O'Reilly.
 
-*Deep Learning for Coders with Fastai and PyTorch: AI Applications Without a PhD*, Jeremy Howard and Sylvain Gugger. 2020, 'Reilly. 
+*AI Engineering: Building Applications with Foundation Models*, Chip Huyen. 2025, 'Reilly. 
 
-*Architecting Data and Machine Learning Platforms*, Marco Tranquillin, Valliappa Lakshmanan, Firat Tekiner. 2023, O'Reilly.
+*Generative AI Design Patterns*, Valliappa Lakshmanan and Hannes Hapke. 2025, O'Reilly.
 
