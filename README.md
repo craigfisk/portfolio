@@ -9,7 +9,6 @@
 
 Contact info: 
     
--    <a href='https://craigfisk.com/craigfisk_resume_2024-2-2.pdf'>Part-time marketing consultant resume</a>
 -    <a href='https://about.me/craigfisk'>About.me/craigfisk</a>
 -    <a href='https://linkedin.com/in/craigfisk'>Linkedin.com/in/craigfisk</a>
 
