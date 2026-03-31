@@ -158,7 +158,7 @@ In conclusion, unsupervised machine learning presents a transformational opportu
 
 ## 4) Appendix
 
-*Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems*, 4th Edition, Aurélien Géron. October 2025, O'Reilly.
+*Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems*, 4th Edition, Aurélien Géron. December 2025, O'Reilly.
 
 *AI Engineering: Building Applications with Foundation Models*, Chip Huyen. 2025, 'Reilly. 
 
