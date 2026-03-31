@@ -12,7 +12,7 @@ Contact info:
 -    <a href='https://about.me/craigfisk'>About.me/craigfisk</a>
 -    <a href='https://linkedin.com/in/craigfisk'>Linkedin.com/in/craigfisk</a>
 
-Note: These essays were AI-generated on gemini.google.com using prompts I supplied, and then re-written to cut wordiness. Current work: When I wrote the first one, in early 2024, I had just finished a Google Developer Group - San Jose 5-week online session on LLM programming (Gemini, chatGPT, Hugging Face, Docker, Gitpod). Currently, in late 2025, we have put https://marmalade.ai on pause -- not least because it needs to have a social strategy. Also, the prototype needs to be  converted from Vue 2 to Vue 3, and subscription support using cloud functions needs to be added.
+Note: These essays were AI-generated on gemini.google.com using prompts I supplied, and then re-written to cut wordiness. Current work: When I wrote the first one, I had just finished a Google Developer Group in San Jose for 5 week-session on LLM programming (Gemini, chatGPT, Hugging Face, Docker, Gitpod). Agentic AI evolved rapidly in 2025. Since November 2025, it seems like every week there's something new. Now it is every day. Using AI to improve "networking" is great, but we're just figuring out "what then?"
 
 
 ## 1) Market Segmentation Using Unsupervised Machine Learning
