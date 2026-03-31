@@ -19,9 +19,9 @@ Note: These essays were AI-generated on gemini.google.com using prompts I suppli
 
 <img src="https://craigfisk.com/img/pexels-photo-8613146_cropped_1080.png" style="width: 100%; height: float: right;" >
 
-There are many publications on using machine learning in segmentation. This post is a personalized summary of some of my thinking on this topic. To build a new business is the #1 initiative today, according to a McKinsey & Company "Global Survey." 
+There are many publications on using machine learning in segmentation. This post is a personalized summary of some of my thinking on this topic. To build a new business is the #1 initiative today, according to a McKinsey "Global Survey." 
 
-Context: back in 2017 I arrived early for a talk on AI and spotted a software engineer I knew had been active in AI for a long time, so I asked what was new. He said, well, matrix algebra and regression are still relevant, but now there are 10,000 times more data and 10,000 times more compute power. 
+Context: Several years ago I arrived early for a talk on AI and spotted a software engineer I knew had been active in it for a long time, so I asked what was new. He said, well, matrix algebra and regression are still relevant, but now there are 10,000 times more data and 10,000 times more compute power. 
 
 Unsupervised ML does bring something new to the table, however. It is the method to use when there are no labels or predetermined categories. Supervised ML uses labeled data. Labeled data generally is lacking in marketing segmentation (or at least it would be good to leave existing ideas behind).
 
