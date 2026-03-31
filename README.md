@@ -12,7 +12,7 @@ Contact info:
 -    <a href='https://about.me/craigfisk'>About.me/craigfisk</a>
 -    <a href='https://linkedin.com/in/craigfisk'>Linkedin.com/in/craigfisk</a>
 
-Note: These essays were AI-generated on gemini.google.com using prompts I supplied, and then re-written to cut wordiness. Current work: When I wrote the first one, I had just finished a Google Developer Group in San Jose for 5 week-session on LLM programming (Gemini, chatGPT, Hugging Face, Docker, Gitpod). Agentic AI evolved rapidly in 2025. Since November 2025, it seems like every week there's something new. Now it is every day. Using AI to improve "networking" is great, but we're just figuring out "what then?"
+Note: These essays were AI-generated on gemini.google.com using prompts I supplied, and then re-written to cut wordiness. Current work: When I wrote the first one, I had just finished a Google Developer Group (San Jose) 5 week-session on LLM programming (Gemini, chatGPT, Hugging Face, Docker, Gitpod). Meanwhile, we've shifted from models to agents. Agentic AI evolved rapidly in 2025. Since November 2025, it now seems like every week if not every day there's something new. Meanwhile, using AI to improve "networking" is great, but we're just figuring out "what then?"
 
 
 ## 1) Market Segmentation Using Unsupervised Machine Learning
