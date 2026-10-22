@@ -2,7 +2,7 @@
 
 ### OpenCode and Open Source 
 
-- 1) OpenCode and Open Source Agentic Programming<br />
+- [1) OpenCode and Open Source Agentic Programming](https://github.com/craigfisk/portfolio#opencode_and_open_source)<br />
 - [2) Market Segmentation Using Unsupervised Machine Learning](https://github.com/craigfisk/portfolio#Market-Segmentation-Using-Unsupervised-Machine-Learning)<br />
 - [3) Using ML to Connect QuickBooks Experts](https://github.com/craigfisk/portfolio#Using-ML-to-Connect-QuickBooks-Experts)<br />
 - [4) Capitalizing on Clinique Sales Associates at Macys With ML](https://github.com/craigfisk/portfolio#Capitalizing-on-Clinique-Sales-Associates-at-Macys-With-ML)<br />
@@ -17,9 +17,6 @@ Note: These essays were AI-generated on gemini.google.com using prompts I suppli
 
 
 ## 1) OpenCode and Open Source
-
-<img src="https://craigfisk.com/img/pexels-photo-8613146_cropped_1080.png" style="width: 100%; height: float: right;" >
-
 
 ### What are the Harnesses?
 I've been staying up-to-date, using, and watching OpenCode, Claude, Alibaba Qwen, Google Antigravity to work on projects. 
