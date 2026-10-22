@@ -1,8 +1,8 @@
 # Portfolio
 
-### OpenCode and Agentic Harnesses
+### OpenCode and Open Source 
 
-- [1) OpenCode and Open Source Agentic Programming<br />
+- 1) OpenCode and Open Source Agentic Programming<br />
 - [2) Market Segmentation Using Unsupervised Machine Learning](https://github.com/craigfisk/portfolio#Market-Segmentation-Using-Unsupervised-Machine-Learning)<br />
 - [3) Using ML to Connect QuickBooks Experts](https://github.com/craigfisk/portfolio#Using-ML-to-Connect-QuickBooks-Experts)<br />
 - [4) Capitalizing on Clinique Sales Associates at Macys With ML](https://github.com/craigfisk/portfolio#Capitalizing-on-Clinique-Sales-Associates-at-Macys-With-ML)<br />
@@ -16,16 +16,25 @@ Contact info:
 Note: These essays were AI-generated on gemini.google.com using prompts I supplied, and then re-written to cut wordiness. Current work: When I wrote the first one, I had just finished a Google Developer Group (San Jose) 5 week-session on LLM programming (Gemini, chatGPT, Hugging Face, Docker, Gitpod). Meanwhile, we've shifted from models to agents. Agentic AI evolved rapidly in 2025. Since November 2025, it now seems like every week if not every day there's something new. Meanwhile, using AI to improve "networking" is great, but we're just figuring out "what then?"
 
 
-## 1) OpenCode and Open Source Agentic Programming
+## 1) OpenCode and Open Source
 
 <img src="https://craigfisk.com/img/pexels-photo-8613146_cropped_1080.png" style="width: 100%; height: float: right;" >
 
 
 ### What are the Harnesses?
-I've been staying relatively up to date and watching OpenCode, Claude, Alibaba Qwen, Google Antigravity.
+I've been staying up-to-date, using, and watching OpenCode, Claude, Alibaba Qwen, Google Antigravity to work on projects. 
 
+In reverse order: Google set several possible directions and has consolidated them to Google Antigravity. Alibaba is a large, up-to-date Chinese player. I need to run a Chinese model on Ollama on my laptop "soon." In Claude's case, I realize the same Boris Cherny who authored the TypeScript book on my desk is the Claude engineering lead (and a great speaker), but I usually use OpenCode first.  
 
+It took 1-2 hours using OpenCode to spec, program, and deploy https://nj07demographics.netlify.app/ for the Rebecca Bennett campaign. This was based on a last-minute Democratic Primary campaign in NJ-07. So I sent adaptations to NYC primary candidates in early June. And then did adaptations, also in 1-2 hours, for the Angie Nixon for Senate campaign in Florida (https://fl-sendemographics.netlify.app/). 
 
+Common ground in these: Leaflet, TypeScript, Vue3, and Vite with a spec about using buttons on a map to show demographics.
+
+Last Spring, Stripe introduced MPP (Machine Payments Protocol - https://stripe.com/blog/machine-payments-protocol), which I plan to incorporate into a subscription service to be used by several apps. 
+
+### Spec-driven development - When Does It Make Sense?
+
+In cases where there is a well-worn path. So a good case is the map-based apps mentioned above. A potentially iffy case is the Stripe MPP protocol: a) it's new, and b) it may create more problems than it solves. The bottomline in both types of cases is that I'd rather not have to learn the details of something where I know the general lay of the land.
 
 
 ## 2) Market Segmentation Using Unsupervised Machine Learning
