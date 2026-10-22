@@ -1,11 +1,12 @@
 # Portfolio
 
-### Machine Learning in Business
+### OpenCode and Agentic Harnesses
 
-- [1) Market Segmentation Using Unsupervised Machine Learning](https://github.com/craigfisk/portfolio#Market-Segmentation-Using-Unsupervised-Machine-Learning)<br />
-- [2) Using ML to Connect QuickBooks Experts](https://github.com/craigfisk/portfolio#Using-ML-to-Connect-QuickBooks-Experts)<br />
-- [3) Capitalizing on Clinique Sales Associates at Macys With ML](https://github.com/craigfisk/portfolio#Capitalizing-on-Clinique-Sales-Associates-at-Macys-With-ML)<br />
-- [4) Appendix](https://github.com/craigfisk/portfolio#Appendix)<br />
+- [1) OpenCode and Open Source Agentic Programming
+- [2) Market Segmentation Using Unsupervised Machine Learning](https://github.com/craigfisk/portfolio#Market-Segmentation-Using-Unsupervised-Machine-Learning)<br />
+- [3) Using ML to Connect QuickBooks Experts](https://github.com/craigfisk/portfolio#Using-ML-to-Connect-QuickBooks-Experts)<br />
+- [4) Capitalizing on Clinique Sales Associates at Macys With ML](https://github.com/craigfisk/portfolio#Capitalizing-on-Clinique-Sales-Associates-at-Macys-With-ML)<br />
+- [5) Appendix](https://github.com/craigfisk/portfolio#Appendix)<br />
 
 Contact info: 
     
@@ -15,7 +16,19 @@ Contact info:
 Note: These essays were AI-generated on gemini.google.com using prompts I supplied, and then re-written to cut wordiness. Current work: When I wrote the first one, I had just finished a Google Developer Group (San Jose) 5 week-session on LLM programming (Gemini, chatGPT, Hugging Face, Docker, Gitpod). Meanwhile, we've shifted from models to agents. Agentic AI evolved rapidly in 2025. Since November 2025, it now seems like every week if not every day there's something new. Meanwhile, using AI to improve "networking" is great, but we're just figuring out "what then?"
 
 
-## 1) Market Segmentation Using Unsupervised Machine Learning
+## 1) OpenCode and Open Source Agentic Programming
+
+<img src="https://craigfisk.com/img/pexels-photo-8613146_cropped_1080.png" style="width: 100%; height: float: right;" >
+
+
+### What are the Harnesses?
+I've been staying relatively up to date and watching OpenCode, Claude, Alibaba Qwen, Google Antigravity.
+
+
+
+
+
+## 2) Market Segmentation Using Unsupervised Machine Learning
 
 <img src="https://craigfisk.com/img/pexels-photo-8613146_cropped_1080.png" style="width: 100%; height: float: right;" >
 
@@ -58,7 +71,7 @@ As the volume and complexity of data continue to grow, unsupervised ML segmentat
 
 
 
-## 2) Using ML to Connect *QuickBooks* Experts
+## 3) Using ML to Connect *QuickBooks* Experts
 
 <img src="https://craigfisk.com/img/pexels-yan-krukau-6817650_1080.png" style="width: 50%; height: auto; float: right;" >
 
@@ -103,7 +116,7 @@ To successfully implement ML-powered QENs, Intuit should:
 Application of ML to create virtual expertise networks for Intuit *QuickBooks* holds huge potential to revolutionize the brand positioning. By harnessing ML, Intuit can empower users, optimize expertise impact, and foster a community of shared knowledge, ultimately enhancing the overall *QuickBooks* experience.
 
 
-## 3) Capitalizing on Clinique Sales Associates at Macy's With ML
+## 4) Capitalizing on Clinique Sales Associates at Macy's With ML
 
 <img src="https://craigfisk.com/img/pexels-karolina-grabowska-7281709_1080.png" style="width: 50%; float: right;" >
 
@@ -156,11 +169,11 @@ As technology continues to advance, the potential for transforming skincare incr
 
 In conclusion, unsupervised machine learning presents a transformational opportunity for Clinique to leverage its sales associates to elevate the customer experience and establish a new standard for personalized skincare interactions. By unlocking customer insights, revolutionizing the skincare consultation process, and enhancing customer engagement, Clinique sales associates are empowered to forge deeper connections with customers and foster a more personalized skincare journey. The future of skincare sales holds immense promise for continued innovation and customer satisfaction.
 
-## 4) Appendix
+## 5) Appendix
 
 *Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems*, 4th Edition, Aurélien Géron. December 2025, O'Reilly.
 
-*AI Engineering: Building Applications with Foundation Models*, Chip Huyen. 2025, 'Reilly. 
+*AI Engineering: Building Applications with Foundation Models*, Chip Huyen. 2025, O'Reilly. 
 
 *Generative AI Design Patterns*, Valliappa Lakshmanan and Hannes Hapke. 2025, O'Reilly.
 
