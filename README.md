@@ -19,7 +19,7 @@ Note: These essays were AI-generated on gemini.google.com using prompts I suppli
 ## 1) OpenCode and Open Source
 
 ### What are the Harnesses?
-In October 2026, I've been staying up-to-date, using, and watching OpenCode, Claude, Alibaba Qwen, and Google Antigravity to work on projects. 
+In October 2026, I stay up-to-date, use, and watch OpenCode, Claude, Alibaba Qwen, and Google Antigravity. 
 
 In reverse order: Google set several possible directions and consolidated them to Google Antigravity. Alibaba is a large, up-to-date Chinese player. Also, I need to run a Chinese model on Ollama on my laptop "soon." That seems to work fine for agentic programming. In Claude's case, I now realize it's the same Boris Cherny who authored the TypeScript book on my desk who is the Claude engineering lead (and a great speaker). I use OpenCode first.  
 
