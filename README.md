@@ -19,6 +19,7 @@ Note: These essays were AI-generated on gemini.google.com using prompts I suppli
 ## 1) OpenCode and Open Source
 
 <img src="https://craigfisk.com/img/casanovadogs.jpg" style="width: 100%; height: float: right;" >
+credit: Stephanie Casanova on Pexels, https://www.pexels.com/@8zampeontheroad/
 
 ### What are the Harnesses?
 In October 2026, I stay up-to-date, use, and watch OpenCode, Claude, Alibaba Qwen, and Google Antigravity. 
