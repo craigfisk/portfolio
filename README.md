@@ -13,21 +13,21 @@ Contact info:
 -    <a href='https://about.me/craigfisk'>About.me/craigfisk</a>
 -    <a href='https://linkedin.com/in/craigfisk'>Linkedin.com/in/craigfisk</a>
 
-Note: These essays were AI-generated on gemini.google.com using prompts I supplied, and then re-written to cut wordiness. Current work: When I wrote the second one, which now seems like ancient history, I had just finished a Google Developer Group (San Jose) 5 week-session on LLM programming (Gemini, chatGPT, Hugging Face, Docker, Gitpod). Meanwhile, we've shifted from models to agents. Agentic AI evolved rapidly in 2026. Since November 2025, every week if not every day there's something new. I've gone from not seeing why anyone would waste time on Instagram to spending an hour every day to find the latest news on very narrow topics. Meanwhile, yes, using AI to improve "networking" is great, but we're just starting to understand "what then?". In the long run, I assume that agentic programming is about improving apps, that open source will win, and that there is a "people" aspect to that we need to figure out.
+Note: These essays were AI-generated on gemini.google.com using prompts I supplied, and then re-written to cut wordiness. When I wrote the second one, which now seems like ancient history, I had just finished a Google Developer Group (San Jose) 5 week-session on LLM programming (Gemini, chatGPT, Hugging Face, Docker, Gitpod). Meanwhile, we've shifted from models to agents. Agentic AI evolved rapidly in 2026. Since November 2025, every week if not every day there's something new. I've gone from not seeing why anyone would waste time on Instagram to spending an hour every day to find the latest news on very narrow topics. Meanwhile, yes, using AI to improve "networking" is great, but we're just starting to understand "what then?". In the long run, I assume that agentic programming is about improving apps, that open source will win, and that there is a "people" aspect to that we need to figure out.
 
 
 ## 1) OpenCode and Open Source
 
 ### What are the Harnesses?
-I've been staying up-to-date, using, and watching OpenCode, Claude, Alibaba Qwen, Google Antigravity to work on projects. 
+In October 2026, I've been staying up-to-date, using, and watching OpenCode, Claude, Alibaba Qwen, and Google Antigravity to work on projects. 
 
-In reverse order: Google set several possible directions and has consolidated them to Google Antigravity. Alibaba is a large, up-to-date Chinese player. I need to run a Chinese model on Ollama on my laptop "soon." In Claude's case, I realize the same Boris Cherny who authored the TypeScript book on my desk is the Claude engineering lead (and a great speaker), but I usually use OpenCode first.  
+In reverse order: Google set several possible directions and consolidated them to Google Antigravity. Alibaba is a large, up-to-date Chinese player. Also, I need to run a Chinese model on Ollama on my laptop "soon." That seems to work fine for agentic programming. In Claude's case, I now realize it's the same Boris Cherny who authored the TypeScript book on my desk who is the Claude engineering lead (and a great speaker). I use OpenCode first.  
 
-It took 1-2 hours using OpenCode to spec, program, and deploy https://nj07demographics.netlify.app/ for the Rebecca Bennett campaign. This was based on a last-minute Democratic Primary campaign in NJ-07. So I sent adaptations to NYC primary candidates in early June. And then did adaptations, also in 1-2 hours, for the Angie Nixon for Senate campaign in Florida (https://fl-sendemographics.netlify.app/). 
+It took 1-2 hours using OpenCode to spec, program, and deploy https://nj07demographics.netlify.app/ for the Rebecca Bennett NJ-07 campaign. It started as a last-minute project for the Democratic Primary campaign in NJ-07. I then sent adaptations to NYC Democratic primary candidates in early June. And then did adaptations, also in 1-2 hours, for the Angie Nixon for Senate campaign in Florida (https://fl-sendemographics.netlify.app/). 
 
 Common ground in these: Leaflet, TypeScript, Vue3, and Vite with a spec about using buttons on a map to show demographics.
 
-Last Spring, Stripe introduced MPP (Machine Payments Protocol - https://stripe.com/blog/machine-payments-protocol), which I plan to incorporate into a subscription service to be used by several apps. 
+Last Spring, Stripe introduced MPP (Machine Payments Protocol - https://stripe.com/blog/machine-payments-protocol), which I plan to incorporate into a subscription service to be used by several apps. This will be trickier, because MPP is not well-known and could easily become problematic.
 
 ### Spec-driven development - When Does It Make Sense?
 
