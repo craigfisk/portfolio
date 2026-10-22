@@ -13,7 +13,7 @@ Contact info:
 -    <a href='https://about.me/craigfisk'>About.me/craigfisk</a>
 -    <a href='https://linkedin.com/in/craigfisk'>Linkedin.com/in/craigfisk</a>
 
-Note: These essays were AI-generated on gemini.google.com using prompts I supplied, and then re-written to cut wordiness. Current work: When I wrote the first one, I had just finished a Google Developer Group (San Jose) 5 week-session on LLM programming (Gemini, chatGPT, Hugging Face, Docker, Gitpod). Meanwhile, we've shifted from models to agents. Agentic AI evolved rapidly in 2025. Since November 2025, it now seems like every week if not every day there's something new. Meanwhile, using AI to improve "networking" is great, but we're just figuring out "what then?"
+Note: These essays were AI-generated on gemini.google.com using prompts I supplied, and then re-written to cut wordiness. Current work: When I wrote the second one, which now seems like ancient history, I had just finished a Google Developer Group (San Jose) 5 week-session on LLM programming (Gemini, chatGPT, Hugging Face, Docker, Gitpod). Meanwhile, we've shifted from models to agents. Agentic AI evolved rapidly in 2026. Since November 2025, every week if not every day there's something new. I've gone from not seeing why anyone would waste time on Instagram to spending an hour every day to find the latest news on very narrow topics. Meanwhile, yes, using AI to improve "networking" is great, but we're just starting to understand "what then?". In the long run, I assume that agentic programming is about improving apps, that open source will win, and that there is a "people" aspect to that we need to figure out.
 
 
 ## 1) OpenCode and Open Source
