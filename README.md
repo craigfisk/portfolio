@@ -2,7 +2,7 @@
 
 ### OpenCode and Open Source 
 
-- [1) OpenCode and Open Source Agentic Programming](https://github.com/craigfisk/portfolio#opencode_and_open_source)<br />
+- [1) OpenCode and Open Source](https://github.com/craigfisk/portfolio#opencode_and_open_source)<br />
 - [2) Market Segmentation Using Unsupervised Machine Learning](https://github.com/craigfisk/portfolio#Market-Segmentation-Using-Unsupervised-Machine-Learning)<br />
 - [3) Using ML to Connect QuickBooks Experts](https://github.com/craigfisk/portfolio#Using-ML-to-Connect-QuickBooks-Experts)<br />
 - [4) Capitalizing on Clinique Sales Associates at Macys With ML](https://github.com/craigfisk/portfolio#Capitalizing-on-Clinique-Sales-Associates-at-Macys-With-ML)<br />
