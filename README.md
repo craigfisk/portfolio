@@ -2,7 +2,7 @@
 
 ### OpenCode and Agentic Harnesses
 
-- [1) OpenCode and Open Source Agentic Programming
+- [1) OpenCode and Open Source Agentic Programming<br />
 - [2) Market Segmentation Using Unsupervised Machine Learning](https://github.com/craigfisk/portfolio#Market-Segmentation-Using-Unsupervised-Machine-Learning)<br />
 - [3) Using ML to Connect QuickBooks Experts](https://github.com/craigfisk/portfolio#Using-ML-to-Connect-QuickBooks-Experts)<br />
 - [4) Capitalizing on Clinique Sales Associates at Macys With ML](https://github.com/craigfisk/portfolio#Capitalizing-on-Clinique-Sales-Associates-at-Macys-With-ML)<br />
