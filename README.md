@@ -21,11 +21,11 @@ Note: These essays were AI-generated on gemini.google.com using prompts I suppli
 ### What are the Harnesses?
 In October 2026, I stay up-to-date, use, and watch OpenCode, Claude, Alibaba Qwen, and Google Antigravity. 
 
-In reverse order: Google set several possible directions and consolidated them to Google Antigravity. Alibaba is a large, up-to-date Chinese player. Also, I need to run a Chinese model on Ollama on my laptop "soon." That seems to work fine for agentic programming. In Claude's case, I now realize it's the same Boris Cherny who authored the TypeScript book on my desk who is the Claude engineering lead (and a great speaker). I use OpenCode first.  
+In reverse order: Google set several possible directions and consolidated them to Google Antigravity. Alibaba is a large, up-to-date Chinese player. Also, I need to run a Chinese model on Ollama on my laptop, which seems to work fine for agentic programming, "soon." In the case of Claude, I now realize it's the same Boris Cherny who authored the TypeScript book on my desk who is the Claude engineering lead (and a great speaker). But I use OpenCode first.  
 
-It took 1-2 hours using OpenCode to spec, program, and deploy https://nj07demographics.netlify.app/ for the Rebecca Bennett NJ-07 campaign. It started as a last-minute project for the Democratic Primary campaign in NJ-07. I already had GitHub repos automatically updating a web server at Netlify. I sent adaptations to NYC Democratic primary candidates in New York City in early June. And then I adapted the app, also in 1-2 hours, for the Angie Nixon for Senate campaign in Florida (https://fl-sendemographics.netlify.app/). 
+It took 1-2 hours using OpenCode to spec, program, and deploy https://nj07demographics.netlify.app/ for the Rebecca Bennett NJ-07 campaign. This started as a last-minute project for the Democratic Primary campaign in NJ-07. I already had GitHub repos automatically updating a web server at Netlify. I sent adaptations to NYC Democratic primary candidates in New York City in early June. And then I adapted the app, also in 1-2 hours, for the Angie Nixon for Senate campaign in Florida (https://fl-sendemographics.netlify.app/). 
 
-Common ground in these: Leaflet, TypeScript, Vue3, and Vite with a spec about using buttons on a map to show demographics.
+Common ground in these: Leaflet, TypeScript, Vue3, and Vite, with a spec about clicking buttons on a map to show demographics.
 
 Last Spring, Stripe introduced MPP (Machine Payments Protocol - https://stripe.com/blog/machine-payments-protocol), which I plan to incorporate into a subscription service to be used by several apps. This will be trickier, because MPP is not well-known and could easily become problematic.
 
